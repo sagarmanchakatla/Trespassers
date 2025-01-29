@@ -1,0 +1,355 @@
+{
+    "last_updated": "2025-01-29T01:36:44.822704+00:00",
+    "data": {
+        "kind": "youtube#searchListResponse",
+        "etag": "RwAp0G98LzrrB703cIRd2NEFvtE",
+        "nextPageToken": "CAoQAA",
+        "regionCode": "IN",
+        "pageInfo": {
+            "totalResults": 1000000,
+            "resultsPerPage": 10
+        },
+        "items": [
+            {
+                "kind": "youtube#searchResult",
+                "etag": "i961cJRvcIeKPLocVZo7ZJTWAi4",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "bny2NJkJGXc"
+                },
+                "snippet": {
+                    "publishedAt": "2025-01-26T13:00:50Z",
+                    "channelId": "UCuVQmkiETvqmLviDcBtQw4A",
+                    "title": "We made MKBHD&#39;s Dream Phone",
+                    "description": "The Nothing team reaches out to MKBHD to see what components he'd like in his dream phone. Working out how much it would ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/bny2NJkJGXc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/bny2NJkJGXc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/bny2NJkJGXc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Nothing",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-01-26T13:00:50Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "CwIe98gjVs5x0L8qgd7sXaFpzEE",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "m1m3nGicjuo"
+                },
+                "snippet": {
+                    "publishedAt": "2025-01-27T11:47:55Z",
+                    "channelId": "UC1twNi4UD8UYfZp5Q1_6x7g",
+                    "title": "Nothing Phone (3a) First Look! Triple Cameras + AI-Powered Nothing Phone (3) Incoming! \ud83d\udd25",
+                    "description": "Nothing is all set to unveil its next-gen smartphones at MWC 2025 in Barcelona on March 4th. The lineup is expected to feature ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/m1m3nGicjuo/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/m1m3nGicjuo/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/m1m3nGicjuo/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "TechiBoy",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-01-27T11:47:55Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "OWeFWwzboX8-wq5YvtXL3WdBpvY",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "cieVCl6rfEY"
+                },
+                "snippet": {
+                    "publishedAt": "2021-11-13T10:37:26Z",
+                    "channelId": "UC4XJeGGdXj0vA4CxDDJ8J_A",
+                    "title": "Bruno Major - Nothing (Lyrics)",
+                    "description": "Bruno Major - Nothing (Lyrics) Follow Cakes & Eclairs on Spotify: http://bit.ly/CakesEclairs Don't forget to subscribe and turn ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/cieVCl6rfEY/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/cieVCl6rfEY/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/cieVCl6rfEY/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Cakes & Eclairs",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2021-11-13T10:37:26Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "U6_RBD4mwX6REOJTi4IRKCEJZsw",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "6_v5CowDCrU"
+                },
+                "snippet": {
+                    "publishedAt": "2025-01-28T07:51:28Z",
+                    "channelId": "UCB_rMQ7N1lOsuyWxuhIIX5A",
+                    "title": "Nothing Phone 3A India Launch Date | Nothing Phone 3A Price in India &amp; Features \ud83d\udd25",
+                    "description": "Hello Guys Aj Ki Iss Video Mei Meine Apko Nothing Phone 3A Smartphone Ke India Launch, Price & Specs Ki Saari Details Diya ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/6_v5CowDCrU/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/6_v5CowDCrU/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/6_v5CowDCrU/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "TECHKY YASSER",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-01-28T07:51:28Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "dc5yW4DPVOCvF8mMhWcvGp4utQk",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "jLTuH7N5_MI"
+                },
+                "snippet": {
+                    "publishedAt": "2025-01-27T16:54:07Z",
+                    "channelId": "UCf6H_wgSI9IZBPNK-8fayUQ",
+                    "title": "Nothing Phone 3a Teased: FINALLY, IT&#39;S OFFICIAL",
+                    "description": "Nothing Phone 3a Teased: FINALLY, IT'S OFFICIAL in this video, Nothing has announced the launch date for its next product.",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/jLTuH7N5_MI/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/jLTuH7N5_MI/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/jLTuH7N5_MI/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "SHADAT'S DAYOUT",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-01-27T16:54:07Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "IwZQl564rYxkY_LOj0lq7tQHEPQ",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "wBEFEmNzcw4"
+                },
+                "snippet": {
+                    "publishedAt": "2024-03-24T08:52:54Z",
+                    "channelId": "UC9MQp8a5uhaIosZPHaoqEXQ",
+                    "title": "Nothing Phone 2a | My Review | Something Phone !!! | Malayalam",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/wBEFEmNzcw4/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/wBEFEmNzcw4/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/wBEFEmNzcw4/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "CallMeShazzam VINES",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-03-24T08:52:54Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "88lDzWNT-x0emZTctojBX_Q7WBc",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "DvdFsbJFBfA"
+                },
+                "snippet": {
+                    "publishedAt": "2024-03-03T14:19:20Z",
+                    "channelId": "UC3XBkDeCVXCoCofFgfUZXGw",
+                    "title": "NOTHING LASTS - KARAN AUJLA, DIVINE | Official Music Video",
+                    "description": "From the album 'Street Dreams', available now on all streaming platforms. Nothing Lasts video in association with 'The Dharavi ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/DvdFsbJFBfA/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/DvdFsbJFBfA/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/DvdFsbJFBfA/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Karan Aujla",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-03-03T14:19:20Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "YIqs4wM6HaAbBt0X0QLDJORJJd8",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "0ZZDU9JKxhY"
+                },
+                "snippet": {
+                    "publishedAt": "2024-07-31T13:34:37Z",
+                    "channelId": "UC5lDVbmgb-sAcx2fjwy3KQA",
+                    "title": "Nothing 2a Plus",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/0ZZDU9JKxhY/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/0ZZDU9JKxhY/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/0ZZDU9JKxhY/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "Booredatwork.com",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-07-31T13:34:37Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "XBzdlOAv9MefPHwmtCp8Lz1_Qb0",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "7Jq20YiFpRc"
+                },
+                "snippet": {
+                    "publishedAt": "2025-01-26T07:20:02Z",
+                    "channelId": "UCLGbbVcs_QIPB33SADFt9uw",
+                    "title": "Unboxing Nothing phone 2a 8/128 #nothing #nothingphone2a #mobilephone #technicalguruji",
+                    "description": "",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/7Jq20YiFpRc/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/7Jq20YiFpRc/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/7Jq20YiFpRc/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "maurya mobile shop",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2025-01-26T07:20:02Z"
+                }
+            },
+            {
+                "kind": "youtube#searchResult",
+                "etag": "FwMG-M7jNg6G5pZD1brlXu9VAi4",
+                "id": {
+                    "kind": "youtube#video",
+                    "videoId": "2d1U8S8f2hg"
+                },
+                "snippet": {
+                    "publishedAt": "2024-07-17T12:38:02Z",
+                    "channelId": "UC18WQbNSfrqxlIjKeIW3bGQ",
+                    "title": "\ud83d\udd25Nothing CMF Phone 1 UNBOXING!",
+                    "description": "Nothing CMF Phone 1 UNBOXING! Best budget phone available? 6.67\u201d 120hz FHD+ Amoled display 2000 nits 5000 ...",
+                    "thumbnails": {
+                        "default": {
+                            "url": "https://i.ytimg.com/vi/2d1U8S8f2hg/default.jpg",
+                            "width": 120,
+                            "height": 90
+                        },
+                        "medium": {
+                            "url": "https://i.ytimg.com/vi/2d1U8S8f2hg/mqdefault.jpg",
+                            "width": 320,
+                            "height": 180
+                        },
+                        "high": {
+                            "url": "https://i.ytimg.com/vi/2d1U8S8f2hg/hqdefault.jpg",
+                            "width": 480,
+                            "height": 360
+                        }
+                    },
+                    "channelTitle": "ASBYT",
+                    "liveBroadcastContent": "none",
+                    "publishTime": "2024-07-17T12:38:02Z"
+                }
+            }
+        ]
+    }
+}
