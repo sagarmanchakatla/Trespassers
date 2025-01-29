@@ -139,6 +139,7 @@
 
 
 from flask import Flask, jsonify
+from flask_cors import CORS 
 import os
 import json
 from datetime import datetime, timedelta
@@ -146,6 +147,8 @@ import pytz
 import requests
 
 app = Flask(__name__)
+CORS(app) 
+
 
 # Replace with your actual YouTube Data API key
 YOUTUBE_API_KEY = 'AIzaSyBe6hKp5D_VNizwr1BvhDxpbbH4IuJWVZ4'
