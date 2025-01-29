@@ -48,19 +48,21 @@ export default function RegisterPage() {
       {error && <p className="text-red-500">{error}</p>}
       <form onSubmit={handleSubmit(onSubmit)} className="space-y-4">
         <Input placeholder="Name" {...register("name")} />
-        {errors.name && <p className="text-red-500">{errors.name.message}</p>}
+        {errors.name && <p className="text-red-500">{errors?.name?.message}</p>}
 
         <Input placeholder="Email" {...register("email")} />
-        {errors.email && <p className="text-red-500">{errors.email.message}</p>}
+        {errors.email && (
+          <p className="text-red-500">{errors?.email?.message}</p>
+        )}
 
         <Input type="password" placeholder="Password" {...register("pass")} />
-        {errors.pass && <p className="text-red-500">{errors.pass.message}</p>}
+        {errors.pass && <p className="text-red-500">{errors?.pass?.message}</p>}
 
         <select {...register("role")} className="border rounded p-2 w-full">
           <option value="manager">Manager</option>
           <option value="client">Client</option>
         </select>
-        {errors.role && <p className="text-red-500">{errors.role.message}</p>}
+        {errors.role && <p className="text-red-500">{errors?.role?.message}</p>}
 
         <Button type="submit" disabled={loading}>
           {loading ? "Registering..." : "Register"}
